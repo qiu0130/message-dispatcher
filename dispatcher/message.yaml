@@ -1,0 +1,30 @@
+A:
+  name: "消息类型一"
+  type:
+    mail:
+      title: "我是标题1"
+      content: "你好，{{ username }}"
+      target: "{{ email }}"
+    throughout:
+      title: "我是标题1"
+      content: "你好，{{ username }}"
+      target: "{{ phone }}"
+    sms:
+      title: "我是标题1"
+      content: "你好，{{ username }}"
+      target: "{{ phone }}"
+B:
+  name: "消息类型二"
+  type:
+    mail:
+      title: "我是标题2"
+      content: "你好，{{ username }}"
+      target: "{{ email }}"
+    throughout:
+      title: "我是标题2"
+      content: "你好，{{ username }}"
+      target: "{{ phone }}"
+    sms:
+      title: "我是标题2"
+      content: "你好，{{ username }}"
+      target: "{{ phone }}"

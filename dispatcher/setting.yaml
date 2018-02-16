@@ -1,0 +1,21 @@
+debug_mode: false
+
+# 邮箱服务配置
+mail:
+  sender:
+    name: xxx
+    server: xxx
+    port: xxx
+    passwd: xx
+
+# 短信服务配置
+sms:
+  sender:
+    name: xxx
+    app_id: xxx
+
+# 透穿服务配置
+troughout:
+  sender:
+    name: xxx
+    app_id: xxx
