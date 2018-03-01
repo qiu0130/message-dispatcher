@@ -1,0 +1,9 @@
+*.pyc
+*.DStore
+*.png
+*.jpg
+*.idea*
+*.__pycache__*
+*.xml
+/idea
+
